@@ -24,7 +24,7 @@ const Home = ({ id, go, fetchedUser }) => (
 		<Group title="Меню">
 			<Div>
 				<Button size="xl" level="2" onClick={go} data-to="persik">
-					Кобра
+					"Кобра"
 				</Button>
 			</Div>
 		</Group>
